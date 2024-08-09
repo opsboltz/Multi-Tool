@@ -1,0 +1,3 @@
+requests==2.31.0
+customtkinter==5.2.2  # Adjust the version if necessary
+python-nmap==0.6.1  # Adjust the version if necessary
